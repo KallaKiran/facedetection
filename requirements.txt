@@ -1,4 +1,3 @@
-deepface
 retina-face
 streamlit
 opencv-python
